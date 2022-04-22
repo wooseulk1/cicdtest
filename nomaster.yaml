@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: wooseulki/testweb:green
+        image: 
         ports:
         - containerPort: 80
 ---
